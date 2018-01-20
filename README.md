@@ -1,3 +1,5 @@
 # fortunetellernew
 
-Task with edited mistake.
+Task with edited mistakes.
+
+
